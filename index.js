@@ -121,4 +121,4 @@ String(x2)
 console.log(res);
 //Boolean()
 var x1=Boolean(10>9)
-console.log(x1);
+console.log(x1); 
