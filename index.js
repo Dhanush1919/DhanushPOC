@@ -114,7 +114,7 @@ var x2 = parseInt("10.33")
 console.log(x1);
 console.log(x2);
 //String()
-var x1 = Boolean(0);
+var x1 = "dav";
 var x2 = Boolean(1);
 var res =String(x1) + "<br>" +
 String(x2)
