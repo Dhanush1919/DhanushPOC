@@ -104,7 +104,19 @@ console.log(nu);
  console.log(isNaN('Hello'));
  console.log(isNaN(undefined));
 //parseFloat()
-
-//parseInt()
+var x1 = parseFloat("10.00");
+var x2 = parseFloat("10.33");
+console.log(x1);
+console.log(x2);
+//parseInt() 
+var x1 = parseInt("10.00")
+var x2 = parseInt("10.33")
+console.log(x1);
+console.log(x2);
 //String()
+var x1 = Boolean(0);
+var x2 = Boolean(1);
+var res =String(x1) + "<br>" +
+String(x2)
+console.log(res);
 //Boolean()
