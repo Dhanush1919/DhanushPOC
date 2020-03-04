@@ -82,11 +82,11 @@ console.log(nu);
 //Global Methods:
 
 //console
-console.table(["Audi", "Volvo", "Ford"]);
-console.warn("This is a warning!");
-console.info("Hello world!");
-console.log("Hello world!");
-console.error("You made a mistake");
+console.table(["KTM", "Bajaj", "Yamaha"]);
+console.warn("Warning!");
+console.info("Good evening");
+console.log("Good Night");
+console.error("Mistake.!!");
 //alert
 //alert("I am an alert box!");
 //prompt
@@ -120,3 +120,5 @@ var res =String(x1) + "<br>" +
 String(x2)
 console.log(res);
 //Boolean()
+var x1=Boolean(10>9)
+console.log(x1);
