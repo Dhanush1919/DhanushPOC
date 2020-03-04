@@ -82,7 +82,10 @@ console.log(nu);
 //Global Methods:
 
 //console
-
+console.table(["Audi", "Volvo", "Ford"]);
+console.warn("This is a warning!");
+console.info("Hello world!");
+console.log("Hello world!");
 
 //alert
 
