@@ -86,13 +86,13 @@ console.table(["Audi", "Volvo", "Ford"]);
 console.warn("This is a warning!");
 console.info("Hello world!");
 console.log("Hello world!");
-
+console.error("You made a mistake");
 //alert
-
+//alert("I am an alert box!");
 //prompt
-
+//var person = prompt("Please enter your name", "Harry Potter");
 //confirm
-
+//confirm("Press a button!");
 //Number()
 var x1= true;
 var x2="746";
